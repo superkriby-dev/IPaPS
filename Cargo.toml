@@ -1,6 +1,6 @@
 [package]
-name = "IPAPS"
-version = "0.3.1"
+name = "IPaPS"
+version = "1.0.0"
 edition = "2024"
 
 [dependencies]
